@@ -12,4 +12,4 @@ go run main.go --device=/dev/tty.Sphero-RGW-RN-SPP
 ```
 
 ## Demo Video
-[https://youtu.be/MocWkQ3TOCE]
+https://youtu.be/MocWkQ3TOCE
